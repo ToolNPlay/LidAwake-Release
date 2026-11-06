@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "releaseDate": "2026-11-06",
+  "minMacOSVersion": "13.0",
+  "downloadURL": "https://github.com/ToolNPlay/LidAwake-Release/releases/latest/download/LidAwake.dmg",
+  "releaseNotes": "LidAwake v1.0.0 — Modern macOS Keep-Awake with Windows-Style Closed-Lid Processing, Display Blackout (⌘⇧D), App Watcher, Download Tracker, and Zero Password Prompts."
+}
