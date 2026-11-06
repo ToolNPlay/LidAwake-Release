@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="og-image.jpg" alt="LidAwake for Mac" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+
 # ☕ LidAwake
 ### Modern Windows-Style Keep-Awake & Closed-Lid Processing Suite for macOS
 
